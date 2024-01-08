@@ -1,0 +1,149 @@
+.new-year-party-celebration{
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px; 
+    position: absolute;
+    color: #FFF;
+}
+.happy-new-year{
+
+    text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+ ;
+}
+
+.banner-image{
+    text-align: center;
+    margin-inline: auto;
+    background-image: url("../images/B9A1-New-Year-New-Mission/resources/Vectorrr.png");
+    
+    
+}
+.off-info{
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+     
+}
+.offer{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.all-catagories{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.location{
+    color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+width: 1320px;
+height: 482px;
+flex-shrink: 0;
+
+}
+.btn-primary{
+    color: #FFF;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+.btn-primary{
+    display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+background: #F00;
+}
+.the-best-gift{
+    color: #F00;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.our-awsome-portfolio{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+
+}
+.message{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+}
+.our-awsome-portfolio, .the-best-gift,.message{
+    display: flex;
+    margin-left: 245px;
+}
+ .subscribe-info{
+    color: #070211;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+ }
+ .subscribe-bar{
+    width: 648px;
+height: 72px;
+
+ }
+ .Subscribe-button{
+    border-radius: 0px 50px 50px 0px;
+background: #F00;
+width: 210px;
+height: 72px;
+flex-shrink: 0;
+
+ }
