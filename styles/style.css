@@ -1,31 +1,46 @@
-.new-year-party-celebration{
-    text-align: center;
-    font-family: Merriweather;
-    font-size: 72px;
-    font-style: normal;
-    font-weight: 900;
-    line-height: 95px; 
-    position: absolute;
-    color: #FFF;
+.banner-image{
+    width: 1320px;
+height: 600px;
+
+     background-image: url("../images/B9A1-New-Year-New-Mission/resources/Banner\ Image.png");
+     background-repeat: no-repeat;
+     margin: auto;
+
+    
+     
+     
+
 }
+
 .happy-new-year{
 
-    text-align: center;
-font-family: Merriweather;
+    color: #FFF;
+
+text-align:center;
 font-size: 32px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
- ;
+}
+.group-no{
+    
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
 }
 
-.banner-image{
-    text-align: center;
-    margin-inline: auto;
-    background-image: url("../images/B9A1-New-Year-New-Mission/resources/Vectorrr.png");
-    
-    
+.new-year-party-celebration{
+
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px;
 }
+
 .off-info{
     color: #F00;
 
@@ -35,8 +50,19 @@ line-height: normal;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    margin-inline: auto;
      
 }
+.welcome-note{
+
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+margin: auto;
+background-image: url(/images/B9A1-New-Year-New-Mission/resources/Vectorrr.png);
+}
+
+
 .offer{
     color: #F00;
 
@@ -44,8 +70,8 @@ text-align: center;
 font-family: Inter;
 font-size: 24px;
 font-style: normal;
-font-weight: 500;
-line-height: normal;
+f
+margin-inline: auto;
 }
 .all-catagories{
     color: #070211;
@@ -108,6 +134,7 @@ font-style: normal;
 font-weight: 900;
 line-height: normal;
 text-transform: capitalize;
+margin: auto;
 
 }
 .message{
@@ -122,6 +149,13 @@ line-height: 32px;
 .our-awsome-portfolio, .the-best-gift,.message{
     display: flex;
     margin-left: 245px;
+    position: left;
+    justify-content: space-around;
+    
+}
+.image{
+
+    padding-left: 300px;
 }
  .subscribe-info{
     color: #070211;
@@ -147,3 +181,57 @@ height: 72px;
 flex-shrink: 0;
 
  }
+ .last-info{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+
+}
+.footer-column{
+    display: flex;
+    gap: 100px;
+    background-color: black;
+    margin-top: 100px;
+    padding: 130px 200px;
+}
+.last-info{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+}
+.rights{
+    color: #FFF;
+
+
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal
+
+}
+.contact-number{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+}
+.unsubscribe{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
