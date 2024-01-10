@@ -1,7 +1,7 @@
 
 .intro{
     text-align: center;
-    background-image: url(/resources/Banner\ Image.png);
+    background-image: url(../resources/Banner\ Image.png);
     padding-bottom: 300px;
     background-repeat: no-repeat;
     
@@ -70,7 +70,7 @@ line-height: 95px; /* 131.944% */
 
 .mid-night {
     display: flex;
-    background-image: url(/resources/Vectorrr.png);
+    background-image: url(../resources/Vectorrr.png);
     background-repeat: no-repeat;
 }
 
@@ -266,7 +266,7 @@ height: 206.841px;
 flex-shrink: 0;
 }
 .optional{
-    background-image: url(/resources/Rectangle\ 1.png);
+    background-image: url(../resources/Rectangle\ 1.png);
     background-repeat: no-repeat;
     background-position: right;
 }
