@@ -180,7 +180,7 @@ text-transform: capitalize;
 
 .coming{
     padding-right: 70px;
-    padding-right: ;
+    /* padding-right: ; */
 }
 .coming-text{
     color: rgba(7, 2, 17, 0.60);
@@ -190,7 +190,7 @@ font-style: normal;
 font-weight: 400;
 line-height: 32px; /* 160% */
 width: 393px;
-margin:;
+/* margin:; */
 }
 .logo{
     border-radius: 463px;
@@ -212,20 +212,100 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 }
-.yeay-2024{
-    color: rgba(7, 2, 17, 0.60);
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 32px; /* 160% */
-width: 276px;
+.year-2024{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
 }
 .year-logo{
     padding: 0px;
     padding-top: 0px;
     border-radius: 463px;
 }
-.comming-soon{
+.coming-soon{
     display: flex;
 }
+.functional{
+    color: #070211;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+text-align: center;
+padding-top: 120px;
+}
+
+.sale-50{
+    color: #F00;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+}
+.sale-text{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 160% */
+width: 1068px;
+text-align: center;
+padding-left: 150px;
+
+}
+.pictures{
+    display: flex;
+}
+.box{
+    width: 137.414px;
+height: 137.414px;
+flex-shrink: 0;
+padding: 355px 303px 127px 155px;
+}
+.discount{
+    width: 206.841px;
+height: 206.841px;
+flex-shrink: 0;
+}
+.optional{
+    background-image: url(/resources/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.gifts{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.awsome{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.gifts-text{
+ color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+width: 896px;
+}
+
