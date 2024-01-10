@@ -309,3 +309,68 @@ line-height: 32px;
 width: 896px;
 }
 
+.portfolio{
+    padding-bottom: 120px;
+}
+
+.news-letter{
+    width: 1320px;
+height: 616px;
+flex-shrink: 0;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+text-align: center;
+}
+
+.letter-box{
+    padding-top: 80px;
+}
+
+.news{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.news-text{
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+    padding-left: 220px;
+}
+.mail{
+    width: 348px;
+height: 72px;
+flex-shrink: 0;
+background: #FFF;
+
+}
+
+.btn{
+    width: 170px;
+height: 72px;
+flex-shrink: 0;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+color: #FFF;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+
+}
