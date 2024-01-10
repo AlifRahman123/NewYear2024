@@ -4,10 +4,11 @@
     background-image: url(/resources/Banner\ Image.png);
     padding-bottom: 300px;
     background-repeat: no-repeat;
+    
 }
 
 .happy{
-    color: #FFF;
+    color: #080808;
 text-align: center;
 font-family: Merriweather;
 font-size: 32px;
@@ -18,8 +19,8 @@ padding-top: 177px;
 }
 
 .celebration{
-    color: #FFF;
-text-align: center;
+    color: #080808;
+/* text-align: center; */
 font-family: Merriweather;
 font-size: 72px;
 font-style: normal;
@@ -39,7 +40,7 @@ line-height: 95px; /* 131.944% */
     font-size: 60px;
     font-weight: 700;
     margin: 0px;
-    padding-top: 120px;
+    padding-top: 0px;
 
 }
 
@@ -145,10 +146,6 @@ span {
     width: 1320px;
     height: 482px;
     padding-top: 150px; 
-    
-
-    
-
 }
 .schedule{
  text-align: center;
@@ -366,43 +363,33 @@ line-height: normal;
 text-transform: capitalize;
 
 }
-
-/* .location{
+.location_two{
     display: flex;
-    background-color: black;
+    padding-left: 100px;
+    background-color:dimgrey;
 }
-.address{
-    color: #FFF;
-font-family: Inter;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: 40px; 
+
+.contact{
+    padding-left: 400px;
+    padding-top: 20px;
+    background-color: dimgrey;
 }
 .logos{
-    display: flex;
+    text-align: center;
+    padding-left: 100px;
+    background-color: dimgrey;
+    
     
 }
 
-.cell{
-    color: #FFF;
-
-font-family: Inter;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: 40px; 
-padding-left: 500px;
+.last{
+    display: flex;
+    background-color: dimgrey;
+}
+.last-text{
+    padding-left: 100px;
 }
 
-.web-link{
-    color: #FFF;
-
-font-family: Inter;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: 40px; 
-
+.last-type{
+    padding-left: 500px;
 }
- */
